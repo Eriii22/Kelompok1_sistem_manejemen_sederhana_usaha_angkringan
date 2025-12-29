@@ -1,0 +1,2 @@
+# Kelompok1_sistem_manejemen_sederhana_usaha_angkringan
+Proyek UAS Algoritma dan Pemrograman
